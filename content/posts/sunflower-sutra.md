@@ -2,11 +2,9 @@
 date: 2020-03-24T23:42:09Z
 title: 5 eCommerce recommendations during COVID-19
 author: Allen Ginsberg
-hero_image: ''
+hero_image: "/content/images/sales-and-marketing-photo-blog-title-1.jpg"
 
 ---
-![](/content/images/sales-and-marketing-photo-blog-title-1.jpg)
-
 Around the world, eCommerce teams face a dilemma. Never has the social disruption fear and social change been greater, conversely never have they been so much in demand.
 
 For a large number of businesses, eCommerce is the only part that is functioning and generating the much-needed revenue to keep it running. 
