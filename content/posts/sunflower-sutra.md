@@ -1,42 +1,53 @@
 ---
-date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
+date: 2020-03-24T23:42:09Z
+title: 5 eCommerce recommendations during COVID-19
 author: Allen Ginsberg
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+hero_image: ''
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+![](/content/images/sales-and-marketing-photo-blog-title-1.jpg)
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+Around the world, eCommerce teams face a dilemma. Never has the social disruption fear and social change been greater, conversely never have they been so much in demand.
 
-![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+For a large number of businesses, eCommerce is the only part that is functioning and generating the much-needed revenue to keep it running. 
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+While you may rightly feel cautious about being seen to jump on the bandwagon or cash in on the current situation, there are some common-sense actions you can take to give your customers confidence in purchasing from you. 
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+I feel that people are looking for normality wherever they can find it and shopping online is one way we can deliver that. 
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+In addition with millions stuck at home for an unknown period of time, the need for your product or service may be higher than usual and its purchase a way of sparking joy. 
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+So what can you do to ensure your site builds confidence with customers during this time?
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+**#1 – Reassure customers that you are operating as normal**
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+With so much confusion around the current lockdown and business shutting on a daily basis you need to add a prominent message to your site so everyone knows their order will be processed and there will be someone at the end of the line if they need help.
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
+**#2 – Be honest & open about delivery times**
 
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
+Everyone understands that delivery times may be impacted so be clear and honest with customers about how long their order will take to deliver, even if it is longer than usual. Try and be as specific as possible by either:
 
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
+* Giving a specific delivery date “Your order will be delivered on” if your site has that capability.
+* Indicating estimated days to delivery “Your order will be delivered in 5 days”
 
-![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
+**#3 – Indicate that delivery will be contact-free if possible**
 
-The grime was no man’s grime but death and human locomotives,
+Most couriers are offering contact or touch-free delivery so talk to your delivery company and ensure that is happening. Once confirmed, ensure you push that message on-site.
 
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
+**#4 – Extend trial and returns periods**
 
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
+No-one wants to think about returning a package at the moment so if possible extend your returns period by a substantial amount (say 60 or 90 days. This will remove returns as a purchase blocker. This may also have the effect of reducing the returns rate long term. 
 
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
+**#5 – Create positive feeling with a value-add**
 
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+Offer a value-add such as Free Delivery to create a positive feeling around purchasing from your site and give costumes the feeling of getting a good deal. This can also be a great way of differentiating from your competitors.
+
+While the points above relate directly to on-site messaging it is obviously critical that it is aligned closely to a strong CRM program engaging and informing customers. 
+
+The situation is evolving quickly and it is important we evolve with it, monitor competitors closely and ensure our customers feel valued and informed. 
+
+After all, we are relying on them now more than ever.
+
+I hope these have been useful.
+
+Good luck and best wishes.
